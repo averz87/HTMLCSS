@@ -1,0 +1,47 @@
+body {
+    background-color: #dbd4eb;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    border-radius: 50pc;
+    border: 5px solid black;
+    
+}
+
+h1, h2 {
+    /*font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
+    text-align: center;
+    color : whitesmoke;
+}
+
+a, button {
+    font-size: medium;
+}
+
+ol, ul {
+    color: #9f5024;
+    display: inline-grid;
+    text-align: left;
+}
+
+header {
+    background-color: #9f5024;
+}
+
+div {
+    margin: 18px;
+}
+
+footer{
+    background-color: #9f5024;
+}
+
+a {
+    color: whitesmoke;
+}
+
+p {
+    font-size: large;
+}
